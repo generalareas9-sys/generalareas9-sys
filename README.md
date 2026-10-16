@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,40:203a43,70:2c5364,100:36d1dc&height=260&section=header&text=Ousman%20Seid&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=36d1dc&strokeWidth=1&desc=Web%20Developer%20%E2%80%A2%20Frontend%20Builder%20%E2%80%A2%20Addis%20Ababa%2C%20Ethiopia&descAlignY=62&descSize=20" width="100%" alt="Ousman Seid banner"/>
+<img src="./banner.svg" width="100%" alt="Ousman Seid, web developer and Information Science student at Haramaya University"/>
 
 <a href="https://github.com/generalareas9-sys">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36D1DC&center=true&vCenter=true&width=700&height=45&lines=%22The+alpha+will+be+omega.%22;Turning+Figma+designs+into+real+products;JavaScript+%26+TypeScript+developer;Creator+of+EthioClear+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing animation"/>
@@ -72,6 +72,6 @@ My personal portfolio website.
 
 *Thanks for visiting. Feel free to explore my repositories and follow along as I grow.* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="./footer.svg" width="100%" alt="Footer"/>
 
 </div>
