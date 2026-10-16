@@ -1,9 +1,11 @@
 <!-- ========== HEADER BANNER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Ousman%20Seid&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Web%20Developer%20%7C%20Building%20Digital%20Solutions%20from%20Addis%20Ababa&descAlignY=58&descSize=18&descColor=a5b4fc" width="100%" alt="Ousman Seid banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,50:0b8f4d,100:064e3b&height=280&section=header&text=Ousman%20Seid&fontSize=70&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Building%20Digital%20Solutions%20from%20Addis%20Ababa&descAlignY=60&descSize=20&descColor=d1fae5" width="100%" alt="Ousman Seid banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:078930,50:FCDD09,100:DA121A&height=5&section=header" width="100%" alt="divider"/>
+<a href="https://github.com/generalareas9-sys">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=The+alpha+will+be+omega.;Building+web+apps+with+JavaScript+%26+TypeScript;Creator+of+EthioClear;Always+learning%2C+always+shipping" alt="Typing animation"/>
+</a>
 
 </div>
 <a href="https://github.com/generalareas9-sys">
